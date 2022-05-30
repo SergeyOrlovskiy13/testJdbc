@@ -1,0 +1,12 @@
+com/itvdn/javastarter/test/conection/MyConnection.class
+com/itvdn/javastarter/test/simple_dao/Main.class
+com/itvdn/javastarter/test/simple_dao/dao/CarDAO.class
+com/itvdn/javastarter/test/simple_dao/dao/ClientDAO.class
+com/itvdn/javastarter/test/simple_dao/entity/User.class
+com/itvdn/javastarter/test/simple_dao/entity/Address.class
+com/itvdn/javastarter/test/simple_dao/entity/Car.class
+com/itvdn/javastarter/test/simple_dao/dao/IDAOFactory.class
+com/itvdn/javastarter/test/simple_dao/dao/impl/DAOFactory.class
+com/itvdn/javastarter/test/simple_dao/entity/Status.class
+com/itvdn/javastarter/test/simple_dao/dao/impl/ClientJDBCDao.class
+com/itvdn/javastarter/test/simple_dao/dao/impl/CarJDBCDao.class

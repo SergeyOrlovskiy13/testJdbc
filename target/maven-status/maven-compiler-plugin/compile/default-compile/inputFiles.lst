@@ -1,0 +1,12 @@
+/Users/sergiyorlovskiy/Desktop/java project/jdbs/JDBC-project-phone/src/main/java/com/itvdn/javastarter/test/simple_dao/dao/ClientDAO.java
+/Users/sergiyorlovskiy/Desktop/java project/jdbs/JDBC-project-phone/src/main/java/com/itvdn/javastarter/test/simple_dao/entity/User.java
+/Users/sergiyorlovskiy/Desktop/java project/jdbs/JDBC-project-phone/src/main/java/com/itvdn/javastarter/test/simple_dao/entity/Address.java
+/Users/sergiyorlovskiy/Desktop/java project/jdbs/JDBC-project-phone/src/main/java/com/itvdn/javastarter/test/simple_dao/dao/impl/ClientJDBCDao.java
+/Users/sergiyorlovskiy/Desktop/java project/jdbs/JDBC-project-phone/src/main/java/com/itvdn/javastarter/test/simple_dao/dao/CarDAO.java
+/Users/sergiyorlovskiy/Desktop/java project/jdbs/JDBC-project-phone/src/main/java/com/itvdn/javastarter/test/simple_dao/entity/Car.java
+/Users/sergiyorlovskiy/Desktop/java project/jdbs/JDBC-project-phone/src/main/java/com/itvdn/javastarter/test/simple_dao/dao/IDAOFactory.java
+/Users/sergiyorlovskiy/Desktop/java project/jdbs/JDBC-project-phone/src/main/java/com/itvdn/javastarter/test/simple_dao/Main.java
+/Users/sergiyorlovskiy/Desktop/java project/jdbs/JDBC-project-phone/src/main/java/com/itvdn/javastarter/test/conection/MyConnection.java
+/Users/sergiyorlovskiy/Desktop/java project/jdbs/JDBC-project-phone/src/main/java/com/itvdn/javastarter/test/simple_dao/entity/Status.java
+/Users/sergiyorlovskiy/Desktop/java project/jdbs/JDBC-project-phone/src/main/java/com/itvdn/javastarter/test/simple_dao/dao/impl/CarJDBCDao.java
+/Users/sergiyorlovskiy/Desktop/java project/jdbs/JDBC-project-phone/src/main/java/com/itvdn/javastarter/test/simple_dao/dao/impl/DAOFactory.java
