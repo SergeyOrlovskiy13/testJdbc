@@ -30,9 +30,9 @@ public class  Main {
         user2.setUserPhone(phones);
 
 
-        clientDAO.add(user1);
+        clientDAO.add(user2);
 
-        System.out.println(user1);
+        System.out.println(user2);
 
 
     }
