@@ -19,20 +19,20 @@ public class  Main {
 
 
 
-        User user1 = new User();
-        user1.setUserAge(30);
-        user1.setUserName("Alex");
-        user1.setStatus(Status.ACTIVE);
-        user1.setAddress(new Address("Mira", 22));
+        User user2 = new User();
+        user2.setUserAge(30);
+        user2.setUserName("Alex");
+        user2.setStatus(Status.ACTIVE);
+        user2.setAddress(new Address("Mira", 22));
         List<String> phones = new ArrayList<>();
         phones.add("111222333");
         phones.add("333222444");
-        user1.setUserPhone(phones);
+        user2.setUserPhone(phones);
 
 
-        clientDAO.add(user1);
+        clientDAO.add(user2);
 
-        System.out.println(user1);
+        System.out.println(user2);
 
 
     }
